@@ -1,8 +1,8 @@
-# Xin chào, mình là Hạng A tùng 👋
+# Xin chào, mình là Hạng A Tùng 👋
 
 🎓 Mới tốt nghiệp CNTT  
 💻 Frontend: React, Tailwind  
 💻 Backend: Node.js, Express, PostgreSQL  
 🌱 Đang học Git, Laravel, Unity
 
-📫 Contact: toohaam123j@gmail.com
+📫 Contact: toojhaam123@gmail.com
