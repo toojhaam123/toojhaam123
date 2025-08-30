@@ -8,6 +8,6 @@ Kỹ năng mềm: Đọc hiểu tài liệu tiếng Anh, làm việc nhóm, tự
 
 Liên hệ: toojhaam123@gmail.com
 
-[![Email](https://img.shields.io/badge/Email-toojhaam123%40gmail.com-red?logo=gmail&logoColor=white)](mailto:toojhaam123@gmail.com)
+[[Email](https://img.shields.io/badge/Email-toojhaam123%40gmail.com-red?logo=gmail&logoColor=white)](mailto:toojhaam123@gmail.com)
 
 ⭐ Nếu bạn thích repo này, hãy cho mình một star nhé! ⭐
